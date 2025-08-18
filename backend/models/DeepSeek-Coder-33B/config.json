@@ -1,0 +1,18 @@
+  {
+    "id": "DeepSeek-Coder-33B",
+    "name": "DeepSeek-Coder-33B",
+    "description": "Code specialized model optimized for software development tasks.",
+    "version": "1.0",
+    "lastModified": "2025-03-05T00:00:00Z",
+    "parameters": {
+      "max_tokens": 1024,
+      "temperature": 0.7,
+      "responseSpeed": 45,
+      "unrestrictedMode": false,
+      "additionalOptions": {
+        "domain": "coding",
+        "compliance": "strict",
+        "customSettings": {}
+      }
+    }
+  }
