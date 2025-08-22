@@ -1,0 +1,18 @@
+  {
+    "id": "Llama-3-8B",
+    "name": "Llama-3-8B",
+    "description": "Optimized for Llama-based tasks with a focus on contextual understanding.",
+    "version": "1.0",
+    "lastModified": "2025-03-05T00:00:00Z",
+    "parameters": {
+      "max_tokens": 768,
+      "temperature": 0.6,
+      "responseSpeed": 55,
+      "unrestrictedMode": false,
+      "additionalOptions": {
+        "domain": "llama",
+        "compliance": "enhanced",
+        "customSettings": {}
+      }
+    }
+  }
