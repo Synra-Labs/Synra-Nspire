@@ -1,8 +1,13 @@
 fastapi
-uvicorn[standard]
-motor
+uvicorn
+pydantic
 python-dotenv
-openai
+requests
+boto3
+redis
 transformers
 datasets
-torch
+accelerate
+peft
+bitsandbytes
+openai
