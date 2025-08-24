@@ -1,4 +1,4 @@
-# Synra Labs — Synra Nspire
+# Synra Nspire
 
 
 Synra Labs™ is an AI research and development lab on a mission to democratize advanced model creation and drive the world toward autonomous intelligence.  
