@@ -1,9 +1,9 @@
-# Synra Nspire
+# Synra Nspire™
 
 
-Synra Labs™ is an AI research and development lab on a mission to democratize advanced model creation and drive the world toward autonomous intelligence.  
+Synra Labs is an AI research and development lab on a mission to democratize advanced model creation and drive the world toward autonomous intelligence.  
 
-Our flagship product, **Synra Nspire**, is a platform for **custom LLM generation, training, and deployment**. It enables individuals and enterprises to build, fine-tune, and manage domain-specific language models with minimal overhead — leveraging **AI Logic** to automate much of the engineering effort traditionally required.
+Our flagship product, **Synra Nspire™**, is a platform for **custom LLM generation, training, and deployment**. It enables individuals and enterprises to build, fine-tune, and manage domain-specific language models with minimal overhead — leveraging **AI Logic** to automate much of the engineering effort traditionally required.
 
 ---
 
