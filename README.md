@@ -7,7 +7,7 @@ Our flagship product, **Synra Nspire**, is a platform for **custom LLM generatio
 
 ---
 
-## 🌍 Why Synra Nspire?
+##  Why Synra Nspire?
 
 Building a useful large language model (LLM) today requires:
 - Access to expensive compute clusters.
@@ -27,19 +27,19 @@ From **finance compliance assistants** to **biotech research copilots**, Nspire 
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔧 Model Customization
+###  Model Customization
 - Select from **six top-tier open-source models** (Mistral-7B, LLaMA-3-8B, Phi-3-Mini, Qwen2-1.5B, Gemma-2B, TinyLlama).  
 - Adjust runtime parameters (temperature, token limit, sampling strategies).  
 - Full JSON override for power users (training recipes, optimizers, quantization).
 
-### 📂 Secure Data Integration
+###  Secure Data Integration
 - Upload datasets (CSV, JSON, TXT, or image files) via **signed S3 URLs**.  
 - Automatic schema detection and validation.  
 - Support for **structured text, tabular data, and multimodal datasets** (images for medical, logistics, etc.).
 
-### 🧠 Training Pipelines
+###  Training Pipelines
 - Orchestrated fine-tuning with **LoRA/QLoRA** for parameter-efficient training.  
 - Distributed training on **AWS EC2 GPU instances** or **EKS with GPU node pools**.  
 - Training jobs queued and monitored via **job orchestrator** (Celery/Redis or SQS).  
@@ -48,7 +48,7 @@ From **finance compliance assistants** to **biotech research copilots**, Nspire 
   - Reinforcement Learning from Human Feedback (RLHF/DPO).  
   - Domain-specific adapters and merges.  
 
-### 📊 Evaluation & Benchmarking
+###  Evaluation & Benchmarking
 - Built-in evaluation suites:
   - Perplexity, Rouge/BLEU, accuracy (text).  
   - Top-k metrics (classification).  
@@ -56,7 +56,7 @@ From **finance compliance assistants** to **biotech research copilots**, Nspire 
 - Automated comparison between baseline vs fine-tuned models.  
 - Human evaluation hooks for qualitative scoring.
 
-### 💻 Deployment
+###  Deployment
 - Export options:
   - **Adapter-only “Brain” files** (LoRA modules + configs).  
   - **Merged weights** (if license permits).  
@@ -66,7 +66,7 @@ From **finance compliance assistants** to **biotech research copilots**, Nspire 
   - AWS SageMaker endpoints.  
   - Containerized inference servers (Docker + Triton).  
 
-### 🔄 Continuous Improvement
+###  Continuous Improvement
 - AI-assisted modification engine: suggests better configs based on dataset analysis and previous training runs.  
 - Iterative “Improve Model” button that spawns new training jobs with refined parameters.
 
@@ -113,7 +113,7 @@ From **finance compliance assistants** to **biotech research copilots**, Nspire 
 
 ---
 
-## 📂 Example Project Workflow
+##  Example Project Workflow
 
 1. **Create Project**  
    - Login and create a new project.  
@@ -141,7 +141,7 @@ From **finance compliance assistants** to **biotech research copilots**, Nspire 
 
 ---
 
-## 🧩 Brain JSON (Infrastructure-Ready)
+##  Brain JSON (Infrastructure-Ready)
 
 Example Brain file that ties into S3 + AWS orchestration:
 
