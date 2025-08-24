@@ -1,0 +1,18 @@
+  {
+    "id": "Falcon-40B",
+    "name": "Falcon-40B",
+    "description": "Large model with high versatility for diverse tasks.",
+    "version": "1.0",
+    "lastModified": "2025-03-05T00:00:00Z",
+    "parameters": {
+      "max_tokens": 2048,
+      "temperature": 0.8,
+      "responseSpeed": 40,
+      "unrestrictedMode": false,
+      "additionalOptions": {
+        "domain": "multitask",
+        "compliance": "advanced",
+        "customSettings": {}
+      }
+    }
+  }
